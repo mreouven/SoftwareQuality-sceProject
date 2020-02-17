@@ -25,5 +25,8 @@
     "mocha": "^5.2.0",
     "mochawesome": "^3.0.3",
     "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "figlet": "^1.2.4"
   }
 }
